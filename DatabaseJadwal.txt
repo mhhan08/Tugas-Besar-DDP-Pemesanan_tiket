@@ -1,0 +1,146 @@
+SS19384 | Senin | 12:00 | Jakarta -> Jerman | Sapphire | Rp 10400000
+CP37401 | Senin | 06:50 | Jakarta  ->  Jerman | Oceanic Path | Rp 8400000
+OD58247 | Senin | 07:25 | Balikpapan  ->  Swedia | Odyssey | Rp 7600000
+DA62489 | Senin | 08:10 | Palembang  ->  Prancis | DeslizaAire | Rp 6800000
+RF82345 | Senin | 09:45 | Makassar  ->  Spanyol | Stratofortress | Rp 12600000
+ET73921 | Senin | 10:30 | Bali  ->  Inggris | Eurofighter Typhoon | Rp 13800000
+SS28463 | Senin | 12:00 | Bandung -> Belanda | Sapphire Sky | Rp 10000000
+CP47392 | Senin | 12:40 | Balikpapan  ->  Portugal | Oceanic Path | Rp 8300000
+OD36574 | Senin | 13:15 | Palembang  ->  Italia | Odyssey | Rp 7500000
+DA98412 | Senin | 14:00 | Makassar  ->  Rusia | DeslizaAire | Rp 6900000
+RF18532 | Senin | 14:50 | Bali  ->  Swedia | Stratofortress | Rp 12800000
+ET43689 | Senin | 15:40 | Jakarta  ->  Prancis | Eurofighter Typhoon | Rp 13700000
+SS67294 | Senin | 16:20 | Balikpapan  ->  Spanyol | Sapphire Sky | Rp 10300000
+CP51728 | Senin | 17:15 | Palembang  ->  Inggris | Oceanic Path | Rp 8100000
+OD98215 | Senin | 18:10 | Makassar  ->  Belanda | Odyssey | Rp 7200000
+DA74163 | Senin | 18:50 | Bali  ->  Italia | DeslizaAire | Rp 6700000
+RF92647 | Senin | 19:30 | Jakarta  ->  Rusia | Stratofortress | Rp 12500000
+ET54372 | Senin | 20:10 | Jakarta  ->  Swiss | Eurofighter Typhoon | Rp 13900000
+SS38746 | Senin | 20:50 | Palembang  ->  Jerman | Sapphire Sky | Rp 10200000
+CP86915 | Senin | 21:30 | Makassar  ->  Portugal | Oceanic Path | Rp 8200000
+
+RF49283 | Selasa | 05:40 | Palembang  ->  Rusia | Stratofortress | Rp 12700000
+CP17456 | Selasa | 06:30 | Makassar  ->  Italia | Oceanic Path | Rp 8300000
+OD67329 | Selasa | 07:15 | Bali  ->  Jerman | Odyssey | Rp 7500000
+DA82651 | Selasa | 08:25 | Jakarta  ->  Portugal | DeslizaAire | Rp 6900000
+SS31547 | Selasa | 09:10 | Balikpapan  ->  Belanda | Sapphire Sky | Rp 10400000
+ET92847 | Selasa | 10:35 | Palembang  ->  Inggris | Eurofighter Typhoon | Rp 13800000
+RF82374 | Selasa | 11:20 | Makassar  ->  Spanyol | Stratofortress | Rp 12600000
+SS62481 | Selasa | 12:05 | Bali  ->  Prancis | Sapphire Sky | Rp 10300000
+CP39418 | Selasa | 13:30 | Jakarta  ->  Swedia | Oceanic Path | Rp 8100000
+OD47536 | Selasa | 14:20 | Balikpapan  ->  Swiss | Odyssey | Rp 7600000
+DA48279 | Selasa | 15:00 | Palembang  ->  Belanda | DeslizaAire | Rp 6800000
+SS75192 | Selasa | 16:10 | Makassar  ->  Inggris | Sapphire Sky | Rp 10200000
+RF69245 | Selasa | 17:15 | Bali  ->  Rusia | Stratofortress | Rp 12500000
+CP52374 | Selasa | 18:05 | Jakarta  ->  Italia | Oceanic Path | Rp 8400000
+ET94753 | Selasa | 19:00 | Balikpapan  ->  Spanyol | Eurofighter Typhoon | Rp 13900000
+OD67125 | Selasa | 19:50 | Palembang  ->  Portugal | Odyssey | Rp 7200000
+DA83927 | Selasa | 20:25 | Makassar  ->  Jerman | DeslizaAire | Rp 6700000
+ET32457 | Selasa | 21:10 | Bali  ->  Swiss | Eurofighter Typhoon | Rp 13700000
+SS17438 | Selasa | 21:50 | Jakarta  ->  Swedia | Sapphire Sky | Rp 10500000
+CP48296 | Selasa | 22:30 | Balikpapan  ->  Prancis | Oceanic Path | Rp 8200000
+
+SS28594 | Rabu | 05:45 | Makassar  ->  Inggris | Sapphire Sky | Rp 10200000
+CP73146 | Rabu | 06:20 | Bali  ->  Swedia | Oceanic Path | Rp 8100000
+OD48372 | Rabu | 07:05 | Jakarta  ->  Spanyol | Odyssey | Rp 7400000
+DA96351 | Rabu | 08:10 | Balikpapan  ->  Rusia | DeslizaAire | Rp 6600000
+RF51738 | Rabu | 09:00 | Palembang  ->  Italia | Stratofortress | Rp 12400000
+ET92461 | Rabu | 10:15 | Makassar  ->  Jerman | Eurofighter Typhoon | Rp 13800000
+SS37418 | Rabu | 11:25 | Bali  ->  Portugal | Sapphire Sky | Rp 10000000
+CP64752 | Rabu | 12:40 | Jakarta  ->  Swiss | Oceanic Path | Rp 8200000
+OD58214 | Rabu | 13:20 | Balikpapan  ->  Belanda | Odyssey | Rp 7300000
+DA94168 | Rabu | 14:05 | Palembang  ->  Prancis | DeslizaAire | Rp 6800000
+RF72359 | Rabu | 15:30 | Makassar  ->  Spanyol | Stratofortress | Rp 12700000
+ET84362 | Rabu | 16:10 | Bali  ->  Inggris | Eurofighter Typhoon | Rp 13600000
+SS58374 | Rabu | 17:05 | Jakarta  ->  Rusia | Sapphire Sky | Rp 10400000
+CP37249 | Rabu | 18:15 | Balikpapan  ->  Italia | Oceanic Path | Rp 8300000
+OD48962 | Rabu | 19:00 | Palembang  ->  Swedia | Odyssey | Rp 7500000
+DA61748 | Rabu | 19:50 | Makassar  ->  Belanda | DeslizaAire | Rp 6700000
+RF89625 | Rabu | 20:35 | Bali  ->  Prancis | Stratofortress | Rp 12500000
+ET43592 | Rabu | 21:20 | Jakarta  ->  Portugal | Eurofighter Typhoon | Rp 13900000
+SS31857 | Rabu | 22:00 | Balikpapan  ->  Jerman | Sapphire Sky | Rp 10300000
+CP58216 | Rabu | 22:40 | Palembang  ->  Swiss | Oceanic Path | Rp 8400000
+
+OD47253 | Kamis | 05:50 | Bali  ->  Italia | Odyssey | Rp 7600000
+SS74219 | Kamis | 06:35 | Jakarta  ->  Inggris | Sapphire Sky | Rp 10500000
+CP93641 | Kamis | 07:15 | Balikpapan  ->  Swedia | Oceanic Path | Rp 8200000
+DA68132 | Kamis | 08:00 | Palembang  ->  Rusia | DeslizaAire | Rp 6900000
+RF85724 | Kamis | 09:25 | Makassar  ->  Portugal | Stratofortress | Rp 12800000
+ET12984 | Kamis | 10:15 | Bali  ->  Belanda | Eurofighter Typhoon | Rp 14000000
+SS37495 | Kamis | 11:30 | Jakarta  ->  Jerman | Sapphire Sky | Rp 10200000
+CP49276 | Kamis | 12:20 | Balikpapan  ->  Prancis | Oceanic Path | Rp 8100000
+OD76142 | Kamis | 13:10 | Palembang  ->  Swiss | Odyssey | Rp 7500000
+DA84973 | Kamis | 14:35 | Makassar  ->  Spanyol | DeslizaAire | Rp 6800000
+RF51637 | Kamis | 15:10 | Bali  ->  Rusia | Stratofortress | Rp 12900000
+ET43725 | Kamis | 16:00 | Jakarta  ->  Italia | Eurofighter Typhoon | Rp 13700000
+SS82491 | Kamis | 16:50 | Balikpapan  ->  Inggris | Sapphire Sky | Rp 10400000
+CP58642 | Kamis | 17:40 | Palembang  ->  Belanda | Oceanic Path | Rp 8500000
+OD74231 | Kamis | 18:30 | Makassar  ->  Prancis | Odyssey | Rp 7400000
+DA61743 | Kamis | 19:20 | Bali  ->  Spanyol | DeslizaAire | Rp 6700000
+RF98134 | Kamis | 20:00 | Jakarta  ->  Portugal | Stratofortress | Rp 12600000
+ET82415 | Kamis | 20:50 | Balikpapan  ->  Swiss | Eurofighter Typhoon | Rp 13500000
+SS14738 | Kamis | 21:40 | Palembang  ->  Jerman | Sapphire Sky | Rp 10300000
+CP62914 | Kamis | 22:30 | Makassar  ->  Swedia | Oceanic Path | Rp 8200000
+SS18463 | Jumat | 05:40 | Palembang  ->  Belanda | Sapphire Sky | Rp 10100000  
+CP74385 | Jumat | 06:25 | Makassar  ->  Italia | Oceanic Path | Rp 8400000  
+RF92671 | Jumat | 07:10 | Bali  ->  Inggris | Stratofortress | Rp 12700000  
+DA61845 | Jumat | 08:15 | Jakarta  ->  Spanyol | DeslizaAire | Rp 6900000  
+OD59473 | Jumat | 09:30 | Balikpapan  ->  Rusia | Odyssey | Rp 7500000  
+ET34781 | Jumat | 10:05 | Palembang  ->  Swedia | Eurofighter Typhoon | Rp 13800000  
+SS91342 | Jumat | 11:20 | Makassar  ->  Prancis | Sapphire Sky | Rp 10200000  
+CP45139 | Jumat | 12:10 | Bali  ->  Swiss | Oceanic Path | Rp 8300000  
+RF81263 | Jumat | 13:00 | Jakarta  ->  Jerman | Stratofortress | Rp 12900000  
+DA69425 | Jumat | 13:50 | Balikpapan  ->  Portugal | DeslizaAire | Rp 6700000  
+OD58137 | Jumat | 14:35 | Palembang  ->  Italia | Odyssey | Rp 7400000  
+ET41352 | Jumat | 15:15 | Makassar  ->  Rusia | Eurofighter Typhoon | Rp 13600000  
+SS27461 | Jumat | 16:05 | Bali  ->  Spanyol | Sapphire Sky | Rp 10000000  
+CP38457 | Jumat | 16:50 | Jakarta  ->  Belanda | Oceanic Path | Rp 8100000  
+RF91748 | Jumat | 17:30 | Balikpapan  ->  Inggris | Stratofortress | Rp 12800000  
+DA61498 | Jumat | 18:20 | Palembang  ->  Jerman | DeslizaAire | Rp 6800000  
+OD42957 | Jumat | 19:15 | Makassar  ->  Portugal | Odyssey | Rp 7200000  
+ET94163 | Jumat | 20:05 | Bali  ->  Swedia | Eurofighter Typhoon | Rp 13900000  
+SS84972 | Jumat | 20:50 | Jakarta  ->  Prancis | Sapphire Sky | Rp 10400000  
+CP56284 | Jumat | 21:30 | Balikpapan  ->  Swiss | Oceanic Path | Rp 8200000  
+
+SS27364 | Sabtu | 05:45 | Jakarta  ->  Belanda | Sapphire Sky | Rp 10200000  
+CP83457 | Sabtu | 06:30 | Palembang  ->  Italia | Oceanic Path | Rp 8300000  
+OD54783 | Sabtu | 07:10 | Bali  ->  Rusia | Odyssey | Rp 7500000  
+RF91547 | Sabtu | 08:05 | Makassar  ->  Prancis | Stratofortress | Rp 12700000  
+DA64239 | Sabtu | 09:15 | Balikpapan  ->  Inggris | DeslizaAire | Rp 6800000  
+ET91384 | Sabtu | 10:00 | Jakarta  ->  Spanyol | Eurofighter Typhoon | Rp 13800000  
+SS48129 | Sabtu | 11:25 | Palembang  ->  Jerman | Sapphire Sky | Rp 10400000  
+CP37518 | Sabtu | 12:15 | Bali  ->  Portugal | Oceanic Path | Rp 8200000  
+RF74936 | Sabtu | 13:00 | Makassar  ->  Swiss | Stratofortress | Rp 12500000  
+DA98143 | Sabtu | 14:20 | Balikpapan  ->  Swedia | DeslizaAire | Rp 6900000  
+OD46271 | Sabtu | 15:10 | Jakarta  ->  Rusia | Odyssey | Rp 7600000  
+ET74153 | Sabtu | 16:05 | Palembang  ->  Prancis | Eurofighter Typhoon | Rp 13600000  
+SS15347 | Sabtu | 17:00 | Bali  ->  Italia | Sapphire Sky | Rp 10300000  
+CP94621 | Sabtu | 17:50 | Makassar  ->  Belanda | Oceanic Path | Rp 8400000  
+RF81437 | Sabtu | 18:40 | Jakarta  ->  Swiss | Stratofortress | Rp 12800000  
+DA78152 | Sabtu | 19:20 | Jakarta  ->  Swedia | DeslizaAire | Rp 6700000  
+OD39571 | Sabtu | 20:05 | Palembang  ->  Spanyol | Odyssey | Rp 7200000  
+ET24967 | Sabtu | 21:10 | Bali  ->  Jerman | Eurofighter Typhoon | Rp 13900000  
+SS38491 | Sabtu | 21:50 | Makassar  ->  Portugal | Sapphire Sky | Rp 10500000  
+CP43765 | Sabtu | 22:30 | Balikpapan  ->  Inggris | Oceanic Path | Rp 8100000  
+
+SS53918 | Minggu | 05:35 | Bali  ->  Inggris | Sapphire Sky | Rp 10400000  
+CP84167 | Minggu | 06:20 | Palembang  ->  Rusia | Oceanic Path | Rp 8200000  
+OD16295 | Minggu | 07:15 | Makassar  ->  Italia | Odyssey | Rp 7300000  
+RF73826 | Minggu | 08:05 | Balikpapan  ->  Swiss | Stratofortress | Rp 12700000  
+DA61594 | Minggu | 09:10 | Jakarta  ->  Belanda | DeslizaAire | Rp 6900000  
+ET42931 | Minggu | 10:25 | Bali  ->  Spanyol | Eurofighter Typhoon | Rp 13800000  
+SS18236 | Minggu | 11:15 | Palembang  ->  Jerman | Sapphire Sky | Rp 10500000  
+CP94382 | Minggu | 12:05 | Makassar  ->  Prancis | Oceanic Path | Rp 8300000  
+OD36185 | Minggu | 12:55 | Balikpapan  ->  Swedia | Odyssey | Rp 7600000  
+RF41953 | Minggu | 14:10 | Jakarta  ->  Portugal | Stratofortress | Rp 12600000  
+DA67319 | Minggu | 15:00 | Bali  ->  Rusia | DeslizaAire | Rp 6800000  
+ET74831 | Minggu | 15:50 | Palembang  ->  Italia | Eurofighter Typhoon | Rp 13900000  
+SS94257 | Minggu | 16:35 | Makassar  ->  Swiss | Sapphire Sky | Rp 10300000  
+CP38426 | Minggu | 17:25 | Balikpapan  ->  Belanda | Oceanic Path | Rp 8100000  
+OD91534 | Minggu | 18:10 | Jakarta  ->  Spanyol | Odyssey | Rp 7500000  
+RF48197 | Minggu | 19:00 | Bali  ->  Jerman | Stratofortress | Rp 12900000  
+DA16349 | Minggu | 19:50 | Palembang  ->  Swedia | DeslizaAire | Rp 6700000  
+ET59174 | Minggu | 20:30 | Makassar  ->  Inggris | Eurofighter Typhoon | Rp 13700000  
+SS47291 | Minggu | 21:15 | Balikpapan  ->  Prancis | Sapphire Sky | Rp 10200000  
+CP83196 | Minggu | 22:00 | Jakarta  ->  Portugal | Oceanic Path | Rp 8400000
+SS12345 | Selasa | 11:11 | Bandung -> Belanda | Sapphire Sky | Rp 12000000
